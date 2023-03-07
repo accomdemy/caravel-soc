@@ -6,5 +6,5 @@ Meeting Slides:
 [fsic-2nd-meeting](https://github.com/accomdemy/caravel-soc/files/10905015/fsic-2nd-meeting.3-1-23.pdf)  
 [fsic-3rd-meeting](https://github.com/accomdemy/caravel-soc/files/10905019/fsic-3rd-meeting.3-6-2023.pdf)
 
-全端IC設計工程師開發流程 Discoard:  
+全端IC設計工程師開發流程@伴伴學Discoard:  
 [https://discordapp.com/channels/838422912507052062/1077220224820068363](https://discordapp.com/channels/838422912507052062/1077220224820068363)
